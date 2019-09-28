@@ -1,0 +1,22 @@
+@charset "UTF-8";
+@font-face { font-family: 'NanumSquareRound'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_two@1.0/NanumSquareRound.woff') format('woff'); 
+font-weight: normal; font-style: normal; }
+.menuname{
+	font-family:NanumSquareRound;
+    text-decoration: none;
+}
+.content{
+	padding-top:2%;
+	text-align : center;
+}
+.goods{
+	padding-top:3%;
+	padding-left:9%;
+	float:left;
+}
+.name{
+	padding-top:2%;
+	font-family:NanumSquareRound;
+	color:#585858;
+	text-decoration:none;
+}
